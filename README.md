@@ -21,6 +21,19 @@ advanced-ts-attention/ ├── README.md ├── requirements.txt / environm
 
 
 ---
+##  Dataset
+The full dataset is too large to include in this repo.  
+Download it from [UCI Electricity Load Diagrams 2011–2014](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014).  
+Place the file in `data/raw/LD2011_2014.txt` before running the notebook.
+
+##  Notebook
+The full workflow is implemented in a single Colab notebook:
+
+- [`notebooks/advanced_ts_forecasting.ipynb`](notebooks/advanced_ts_forecasting.ipynb)
+
+You can open it directly in Google Colab using this badge:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/advanced-ts-attention/blob/main/notebooks/advanced_ts_forecasting.ipynb)
 
 ##  Setup
 ### Requirements
