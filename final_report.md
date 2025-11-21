@@ -1,4 +1,4 @@
-# 📌 Final Report: Advanced Time Series Forecasting
+#  Final Report: Advanced Time Series Forecasting
 
 ## 1. Introduction
 We forecast electricity load using the UCI dataset (2011–2014).  
